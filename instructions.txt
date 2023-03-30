@@ -1,0 +1,9 @@
+Node Cores
+Node Memory
+Node Color
+Node ecoNode
+App Cores needed
+App Memory needed
+App Color needed
+App deployment location
+App latency requirements
